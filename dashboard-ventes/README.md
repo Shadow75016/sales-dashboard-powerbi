@@ -70,7 +70,6 @@ Des filtres permettent également d’explorer les données par :
 - Le projet repose sur une seule page de dashboard afin de privilégier la clarté.
 
 ## Aperçu du dashboard
-Ajoute ici une capture d’écran de ton dashboard :
 
 ![Sales Dashboard](images/dashboard_global.png)
 
