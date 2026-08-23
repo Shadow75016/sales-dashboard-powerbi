@@ -78,7 +78,7 @@ Des filtres permettent également d’explorer les données par :
 dashboard-ventes/
 ├── dashboard/
 │   └── dashboard_ventes.pbix
-├── data/
+├── data/raw/
 │   └── sample_-_superstore.xls
 ├── images/
 │   └── dashboard_global.png
