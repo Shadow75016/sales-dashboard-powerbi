@@ -72,7 +72,7 @@ Des filtres permettent également d’explorer les données par :
 
 ## Aperçu du dashboard
 
-![Sales Dashboard](images/dashboard_global.png)
+![Sales Dashboard](dashboard-ventes/images/dashboard_global.png)
 
 ## Structure du projet
 ```text
