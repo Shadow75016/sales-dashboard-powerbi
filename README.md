@@ -20,7 +20,7 @@ L’objectif est de transformer des données commerciales brutes en indicateurs 
 
 ## Aperçu du dashboard
 
-![Sales Dashboard](./images/dashboard_global.png)
+![Sales Dashboard](dashboard-ventes/images/dashboard_global.png)
 
 ---
 
