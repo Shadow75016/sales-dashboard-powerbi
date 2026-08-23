@@ -76,11 +76,10 @@ Des filtres permettent également d’explorer les données par :
 ## Structure du projet
 ```text
 dashboard-ventes/
-├── data/
-│   ├── cleaned/
-│   └── raw/
 ├── dashboard/
 │   └── dashboard_ventes.pbix
+├── data/
+│   └── sample_-_superstore.xls
 ├── images/
 │   └── dashboard_global.png
 └── README.md
