@@ -46,6 +46,13 @@ Les indicateurs principaux utilisés dans le dashboard sont :
 - **Total Orders**
 - **Average Basket**
 
+## Mesures DAX principales
+- Total Sales = SUM('Superstore'[Sales])
+- Total Profit = SUM('Superstore'[Profit])
+- Total Quantity = SUM('Superstore'[Quantity]) 
+- Total Orders = DISTINCTCOUNT('Superstore'[Order ID])
+- Average Basket = DIVIDE([Total Sales], [Total Orders])
+
 ## Contenu du dashboard
 Le dashboard principal permet de visualiser :
 - l’évolution du chiffre d’affaires par mois
